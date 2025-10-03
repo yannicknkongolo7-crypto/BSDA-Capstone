@@ -1,0 +1,11 @@
+country_pair,country_a,country_b,country_a_absolute,country_b_absolute,country_a_per_capita,country_b_per_capita,misleading_factor,explanation
+India vs Spain,India,Spain,10266674,1928265,744,4071,5.47,India appears 5.3x more affected in absolute terms but Spain has 5.5x higher per capita rate
+Brazil vs Netherlands,Brazil,Netherlands,7675973,740780,3612,4321,10.37,Brazil appears 10.4x more affected but Netherlands has higher per capita impact
+Russia vs Belgium,Russia,Belgium,3131550,645928,2146,5576,4.85,Russia appears 4.8x more affected but Belgium has 2.6x higher per capita rate
+Mexico vs Czechia,Mexico,Czechia,1426094,729126,1105,6814,1.96,Mexico appears 2x more affected but Czechia has 6.2x higher per capita rate
+Bangladesh vs Slovenia,Bangladesh,Slovenia,508308,132943,309,6394,3.82,Bangladesh appears 3.8x more affected but Slovenia has 20.7x higher per capita rate
+Philippines vs Lithuania,Philippines,Lithuania,474064,141697,433,5205,3.35,Philippines appears 3.3x more affected but Lithuania has 12x higher per capita rate
+Pakistan vs Estonia,Pakistan,Estonia,472672,59577,214,4493,7.93,Pakistan appears 7.9x more affected but Estonia has 21x higher per capita rate
+Indonesia vs Croatia,Indonesia,Croatia,743198,205157,272,4997,3.62,Indonesia appears 3.6x more affected but Croatia has 18.4x higher per capita rate
+Egypt vs Slovakia,Egypt,Slovakia,167385,208645,164,3823,0.80,Egypt appears less affected but Slovakia has 23.3x higher per capita rate
+Nigeria vs Panama,Nigeria,Panama,85542,243158,41,5637,0.35,Nigeria appears less affected but Panama has 137x higher per capita rate

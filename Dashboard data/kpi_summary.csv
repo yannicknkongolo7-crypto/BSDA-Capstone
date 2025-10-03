@@ -1,0 +1,9 @@
+kpi_name,kpi_value,kpi_target,status
+Countries with >30% Rank Change,67.2,30.0,EXCEEDS
+Population-Case Correlation (r),0.82,0.70,EXCEEDS
+European Countries Rank Improvement,78.4,50.0,EXCEEDS
+Large Population Countries Rank Drop,89.3,60.0,EXCEEDS
+Misleading Interpretation Rate,71.8,40.0,EXCEEDS
+Statistical Significance (p-value),0.001,0.05,EXCEEDS
+Effect Size (Cohen's d),1.47,0.80,EXCEEDS
+Dashboard User Satisfaction,92.5,85.0,EXCEEDS

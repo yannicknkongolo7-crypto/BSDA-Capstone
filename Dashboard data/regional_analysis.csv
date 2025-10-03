@@ -1,0 +1,37 @@
+region_name,metric_name,metric_value,rank_within_regions,misleading_severity
+Europe,Absolute Cases,15872345,2,HIGH
+Europe,Per Capita Cases,3456,1,HIGH
+Europe,Rank Change,18.5,1,HIGH
+Europe,Countries Affected,35,1,HIGH
+Europe,Misleading Percentage,78,1,HIGH
+Europe,Population Bias,0.23,6,LOW
+North America,Absolute Cases,22988665,1,MEDIUM
+North America,Per Capita Cases,2871,3,MEDIUM
+North America,Rank Change,4.7,4,LOW
+North America,Countries Affected,23,2,MEDIUM
+North America,Misleading Percentage,52,3,MEDIUM
+North America,Population Bias,0.67,2,HIGH
+Asia,Absolute Cases,14562890,3,HIGH
+Asia,Per Capita Cases,892,5,HIGH
+Asia,Rank Change,23.4,2,HIGH
+Asia,Countries Affected,48,1,HIGH
+Asia,Misleading Percentage,71,2,HIGH
+Asia,Population Bias,0.78,1,HIGH
+South America,Absolute Cases,11024651,4,MEDIUM
+South America,Per Capita Cases,3287,2,MEDIUM
+South America,Rank Change,8.9,3,MEDIUM
+South America,Countries Affected,12,4,MEDIUM
+South America,Misleading Percentage,45,4,MEDIUM
+South America,Population Bias,0.45,4,MEDIUM
+Africa,Absolute Cases,2156789,5,LOW
+Africa,Per Capita Cases,1425,4,LOW
+Africa,Rank Change,12.3,5,MEDIUM
+Africa,Countries Affected,54,1,HIGH
+Africa,Misleading Percentage,38,5,LOW
+Africa,Population Bias,0.34,5,LOW
+Oceania,Absolute Cases,98765,6,LOW
+Oceania,Per Capita Cases,2103,6,LOW
+Oceania,Rank Change,5.1,6,LOW
+Oceania,Countries Affected,14,5,LOW
+Oceania,Misleading Percentage,29,6,LOW
+Oceania,Population Bias,0.41,3,MEDIUM

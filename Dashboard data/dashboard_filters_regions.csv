@@ -1,0 +1,16 @@
+region_name,parent_region,selected,display_order
+Europe,World,TRUE,1
+Asia,World,TRUE,2
+North America,World,TRUE,3
+South America,World,FALSE,4
+Africa,World,FALSE,5
+Oceania,World,FALSE,6
+Western Europe,Europe,TRUE,7
+Eastern Europe,Europe,FALSE,8
+Southern Europe,Europe,TRUE,9
+Northern Europe,Europe,TRUE,10
+East Asia,Asia,TRUE,11
+South Asia,Asia,TRUE,12
+Southeast Asia,Asia,FALSE,13
+Western Asia,Asia,FALSE,14
+Central Asia,Asia,FALSE,15

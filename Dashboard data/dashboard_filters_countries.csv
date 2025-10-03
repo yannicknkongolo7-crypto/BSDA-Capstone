@@ -1,0 +1,31 @@
+country_name,selected,display_order
+United States,TRUE,1
+India,TRUE,2
+Brazil,TRUE,3
+Russia,FALSE,4
+France,TRUE,5
+Turkey,FALSE,6
+United Kingdom,TRUE,7
+Italy,TRUE,8
+Spain,TRUE,9
+Argentina,FALSE,10
+Germany,TRUE,11
+Iran,FALSE,12
+Poland,FALSE,13
+Colombia,FALSE,14
+Ukraine,FALSE,15
+Mexico,TRUE,16
+Peru,FALSE,17
+South Africa,FALSE,18
+Netherlands,TRUE,19
+Belgium,TRUE,20
+Iraq,FALSE,21
+Czechia,TRUE,22
+Chile,FALSE,23
+Bangladesh,TRUE,24
+Romania,FALSE,25
+Philippines,TRUE,26
+Israel,FALSE,27
+Pakistan,TRUE,28
+Canada,TRUE,29
+Sweden,TRUE,30

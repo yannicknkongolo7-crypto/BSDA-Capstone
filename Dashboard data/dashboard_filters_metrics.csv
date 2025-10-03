@@ -1,0 +1,11 @@
+metric_type,display_name,field_name,selected,display_order
+Absolute Cases,Total Cases,total_cases_absolute,TRUE,1
+Per Capita Cases,Cases per 100K,cases_per_100k,TRUE,2
+Daily Cases,Daily New Cases,daily_cases_absolute,FALSE,3
+Daily Per Capita,Daily per 100K,daily_cases_per_100k,FALSE,4
+Cumulative Cases,Cumulative Total,cumulative_cases_absolute,FALSE,5
+Cumulative Per Capita,Cumulative per 100K,cumulative_cases_per_100k,FALSE,6
+7-Day Average,7-Day Moving Average,7day_avg_cases,FALSE,7
+7-Day Per Capita,7-Day Moving Average per 100K,7day_avg_per_100k,FALSE,8
+Rank Absolute,Ranking by Total Cases,absolute_rank,TRUE,9
+Rank Per Capita,Ranking by Per Capita,per_capita_rank,TRUE,10

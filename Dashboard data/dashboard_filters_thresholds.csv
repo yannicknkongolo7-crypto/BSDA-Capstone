@@ -1,0 +1,11 @@
+threshold_name,threshold_value,min_value,max_value,selected,display_order
+Rank Change Threshold,30,10,50,TRUE,1
+Correlation Threshold,0.70,0.50,0.95,TRUE,2
+Misleading Percentage,40,20,80,TRUE,3
+Significance Level,0.05,0.01,0.10,TRUE,4
+Effect Size Threshold,0.80,0.20,2.00,TRUE,5
+Population Category Small,10000000,1000000,50000000,TRUE,6
+Population Category Large,100000000,50000000,2000000000,TRUE,7
+Cases Per 100K High,2000,500,10000,FALSE,8
+Cases Per 100K Low,500,50,2000,FALSE,9
+Outlier Detection IQR,1.5,1.0,3.0,FALSE,10
